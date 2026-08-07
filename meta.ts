@@ -35,6 +35,7 @@ export const manual = [
   'react',
   'nextjs',
   'tanstack',
+  'tanstack-table',
   'nuqs',
   'stylex',
   'ui',
