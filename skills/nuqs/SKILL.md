@@ -17,3 +17,8 @@ description: nuqs — 类型安全的 URL 查询参数状态管理（useQuerySta
 | Options & Rate limiting | [options](references/options.md) |
 | Server-side | [server-side](references/server-side.md) |
 | Testing | [testing](references/testing.md) |
+| Zod codecs 适配器（社区） | [parsers-community-zod](references/parsers-community-zod.md) |
+| Effect Schema 适配器（社区） | [parsers-community-effect-schema](references/parsers-community-effect-schema.md) |
+| TanStack Table 同步（社区） | [parsers-community-tanstack-table](references/parsers-community-tanstack-table.md) |
+| Utilities | [utilities](references/utilities.md) |
+| v1→v2 迁移 | [migration-v2](references/migration-v2.md) |
