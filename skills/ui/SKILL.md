@@ -1,11 +1,13 @@
 ---
 name: ui
-description: antd v6 / UnoCSS — 组件库与工具类
+description: Ant Design v6 组件库与图标/主题系统
 ---
 
 # UI
 
-组件库与工具类：antd v6 组件、UnoCSS 工具类。StyleX 已独立为 [../stylex/SKILL.md](../stylex/SKILL.md)。
+组件库：Ant Design v6。图标与主题（Design Token / algorithm / CSS 变量 / zeroRuntime）同属本 skill。
+
+> 工具类方案 UnoCSS 已移到 [../foundation/SKILL.md](../foundation/SKILL.md)（工程化底座）；CSS-in-JS 方案 StyleX 见 [../stylex/SKILL.md](../stylex/SKILL.md)。
 
 ## References
 
