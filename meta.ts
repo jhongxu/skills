@@ -36,6 +36,7 @@ export const manual = [
   'nextjs',
   'tanstack',
   'nuqs',
+  'stylex',
   'ui',
   'data-and-forms',
   'testing',

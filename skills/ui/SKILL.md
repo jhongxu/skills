@@ -1,16 +1,15 @@
 ---
 name: ui
-description: StyleX / antd v6 / UnoCSS — 样式与组件库
+description: antd v6 / UnoCSS — 组件库与工具类
 ---
 
 # UI
 
-样式与组件库三层：StyleX 原子、antd v6 组件、UnoCSS 工具类。
+组件库与工具类：antd v6 组件、UnoCSS 工具类。StyleX 已独立为 [../stylex/SKILL.md](../stylex/SKILL.md)。
 
 ## References
 
 | Topic | Reference |
 |-------|-----------|
-| StyleX | [stylex](references/stylex.md) |
 | Ant Design v6 | [antd-v6](references/antd-v6.md) |
 | Icon & Theming | [icon-and-theming](references/icon-and-theming.md) |
