@@ -19,6 +19,7 @@ export const sources = {
   'tanstack-query': 'https://github.com/TanStack/query',
   'tanstack-form': 'https://github.com/TanStack/form',
   'zod': 'https://github.com/colinhacks/zod',
+  'void': 'https://github.com/voidzero-dev/void',
 }
 
 /**

@@ -68,6 +68,7 @@ Generated from official documentation and fine-tuned by me.
 | [tanstack-query](skills/tanstack-query) | TanStack Query v5 - server state: caching, invalidation, mutations, optimistic updates, infinite queries, Suspense, SSR hydration | [TanStack/query](https://github.com/TanStack/query) |
 | [tanstack-form](skills/tanstack-form) | TanStack Form v1 - headless type-first forms: field validation, Standard Schema, form groups, array fields, reusable field components | [TanStack/form](https://github.com/TanStack/form) |
 | [zod](skills/zod) | Zod v4 - TypeScript-first schema validation: primitives, unions, refinements, error customization, codecs, JSON Schema | [colinhacks/zod](https://github.com/colinhacks/zod) |
+| [void](skills/void) | Void - full-stack framework for Cloudflare Workers powered by Vite: API routes, Pages mode, Drizzle, typed fetch, CLI and deployment | [voidzero-dev/void](https://github.com/voidzero-dev/void) |
 
 ## FAQ
 
