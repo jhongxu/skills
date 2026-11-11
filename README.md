@@ -63,6 +63,7 @@ Generated from official documentation and fine-tuned by me.
 | [react](skills/react) | React 19 - function components, Hooks, state/effects, Transitions, Server Components, React Compiler | [reactjs/react.dev](https://github.com/reactjs/react.dev) |
 | [next](skills/next) | Next.js 16 App Router - routing, Server/Client Components, Server Actions, Cache Components, Route Handlers | [vercel/next.js](https://github.com/vercel/next.js) |
 | [hono](skills/hono) | Hono - Web Standards routing, middleware, validators, typed RPC, JSX/SSR, streaming, multi-runtime deployment | [honojs/website](https://github.com/honojs/website) |
+| [jotai](skills/jotai) | Jotai v3 - atomic state for React: atoms, derived atoms, async atoms with Suspense, Provider/store, utilities and extensions | [pmndrs/jotai](https://github.com/pmndrs/jotai) |
 
 ## FAQ
 

@@ -14,6 +14,7 @@ export const sources = {
   react: 'https://github.com/reactjs/react.dev',
   next: 'https://github.com/vercel/next.js',
   hono: 'https://github.com/honojs/website',
+  jotai: 'https://github.com/pmndrs/jotai',
 }
 
 /**
