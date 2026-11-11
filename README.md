@@ -88,7 +88,9 @@ See [AGENTS.md](AGENTS.md) for detailed generation guidelines.
 
 ## Credits
 
-The workflow, structure, and tooling of this repository are originally from [antfu/skills](https://github.com/antfu/skills), adapted to my own preferences and maintained by me.
+The workflow, structure, and tooling of this repository originate from [antfu/skills](https://github.com/antfu/skills), adapted to my own preferences and maintained by me.
+
+This repository was forked and rewritten onto a single root commit, so the upstream history is no longer part of it. The attribution above is kept deliberately: the original work stays credited to its authors, and this collection remains MIT licensed, as stated in [LICENSE.md](LICENSE.md).
 
 ## License
 
