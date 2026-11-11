@@ -13,6 +13,7 @@ export const sources = {
   nitro: 'https://github.com/nitrojs/nitro',
   react: 'https://github.com/reactjs/react.dev',
   next: 'https://github.com/vercel/next.js',
+  hono: 'https://github.com/honojs/website',
 }
 
 /**
