@@ -65,6 +65,9 @@ Generated from official documentation and fine-tuned by me.
 | [hono](skills/hono) | Hono - Web Standards routing, middleware, validators, typed RPC, JSX/SSR, streaming, multi-runtime deployment | [honojs/website](https://github.com/honojs/website) |
 | [jotai](skills/jotai) | Jotai v3 - atomic state for React: atoms, derived atoms, async atoms with Suspense, Provider/store, utilities and extensions | [pmndrs/jotai](https://github.com/pmndrs/jotai) |
 | [tanstack-router](skills/tanstack-router) | TanStack Router v1 - type-safe file-based routing, loaders with SWR cache, typed search params, deferred loading, code splitting, TanStack Start | [TanStack/router](https://github.com/TanStack/router) |
+| [tanstack-query](skills/tanstack-query) | TanStack Query v5 - server state: caching, invalidation, mutations, optimistic updates, infinite queries, Suspense, SSR hydration | [TanStack/query](https://github.com/TanStack/query) |
+| [tanstack-form](skills/tanstack-form) | TanStack Form v1 - headless type-first forms: field validation, Standard Schema, form groups, array fields, reusable field components | [TanStack/form](https://github.com/TanStack/form) |
+| [zod](skills/zod) | Zod v4 - TypeScript-first schema validation: primitives, unions, refinements, error customization, codecs, JSON Schema | [colinhacks/zod](https://github.com/colinhacks/zod) |
 
 ## FAQ
 

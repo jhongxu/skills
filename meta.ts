@@ -16,6 +16,9 @@ export const sources = {
   'hono': 'https://github.com/honojs/website',
   'jotai': 'https://github.com/pmndrs/jotai',
   'tanstack-router': 'https://github.com/TanStack/router',
+  'tanstack-query': 'https://github.com/TanStack/query',
+  'tanstack-form': 'https://github.com/TanStack/form',
+  'zod': 'https://github.com/colinhacks/zod',
 }
 
 /**
