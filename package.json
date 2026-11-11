@@ -1,0 +1,28 @@
+{
+  "name": "jhongxu-skills",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@12.8.1",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "node scripts/cli.ts",
+    "prepare": "simple-git-hooks && node scripts/cli.ts init -y && skills-npm"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^9.5.1",
+    "@clack/prompts": "^1.8.1",
+    "@types/node": "^26.6.3",
+    "eslint": "^10.11.0",
+    "eslint-plugin-format": "^2.0.1",
+    "lint-staged": "^17.6.0",
+    "simple-git-hooks": "^2.14.0",
+    "skills-npm": "^4.0.0",
+    "typescript": "^6.0.3"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "pnpm lint-staged"
+  },
+  "lint-staged": {
+    "*": "eslint --fix --no-warn-ignored"
+  }
+}
