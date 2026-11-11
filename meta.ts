@@ -11,6 +11,7 @@ export const sources = {
   vitest: 'https://github.com/vitest-dev/vitest',
   vitepress: 'https://github.com/vuejs/vitepress',
   nitro: 'https://github.com/nitrojs/nitro',
+  react: 'https://github.com/reactjs/react.dev',
 }
 
 /**
