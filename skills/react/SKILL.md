@@ -44,6 +44,7 @@ metadata:
 | Topic | Description | Reference |
 |-------|-------------|--------|
 | Server Components | `'use client'` / `'use server'`, Server Functions, `cache` | [advanced-rsc](references/advanced-rsc.md) |
+| Next.js | App Router on top of React - see the separate `next` skill | next |
 
 ## Best Practices
 

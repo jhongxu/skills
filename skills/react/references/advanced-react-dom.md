@@ -108,6 +108,10 @@ function Submit() {
 - Options include `bootstrapScriptContent` / `bootstrapScripts` / `bootstrapModules`, `identifierPrefix`, `onError`, `nonce`, `importMap`, `maxHeadersLength`.
 - `formState` must be threaded from the server renderer to `hydrateRoot` when using `useActionState` with a `permalink`.
 
+## In Next.js
+
+In a Next.js app you rarely call these APIs directly: the framework owns the root, hydration, routing and prefetching. Use the `next` skill for the App Router instead of wiring `createRoot`/`hydrateRoot` by hand.
+
 ## Errors
 
 - Catch rendering errors with an **Error Boundary** (`class X extends Component` with `componentDidCatch` / `getDerivedStateFromError`). Error Boundaries must be class components.
