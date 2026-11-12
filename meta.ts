@@ -20,6 +20,7 @@ export const sources = {
   'tanstack-form': 'https://github.com/TanStack/form',
   'zod': 'https://github.com/colinhacks/zod',
   'void': 'https://github.com/voidzero-dev/void',
+  'drizzle': 'https://github.com/drizzle-team/drizzle-orm',
 }
 
 /**
