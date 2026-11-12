@@ -1,5 +1,7 @@
 # jhongxu's Skills
 
+> [简体中文](README.zh-CN.md)
+
 A collection of [Agent Skills](https://agentskills.io/home) reflecting my own preferences, experience, and best practices, along with usage documentation for the tools.
 
 > [!IMPORTANT]
